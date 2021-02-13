@@ -6,7 +6,7 @@ Autor: Henry Lopes Pereira
 
 *Página de Login com Usuário e senha já cadastrados no banco de dados;
 
-*Sistema de validação pela id da sessão;
+*Sistema de validação pelo id da sessão;
 
 *Alteração e exclusão de projetos e atividades (Validação para não apagar um projeto ainda com atividades integradas).
 
