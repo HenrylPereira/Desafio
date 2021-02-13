@@ -15,7 +15,7 @@ Autor: Henry Lopes Pereira
 Preenchimento de todos os campos.
 Datas válidas (anos maiores que 2000 e menores que 2050).
 Validação para que a data de início não seja maior que data final do projeto.
-Validação para que o projeto não seja cadastrado no passado.
+Validação para que o projeto não seja cadastrado no passado (baseado na data atual).
 
 
 
