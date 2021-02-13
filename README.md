@@ -1,4 +1,4 @@
-# Desafio Henry
+# Desafio 
 
 Autor: Henry Lopes Pereira
 
@@ -27,6 +27,6 @@ Validação para que a data de início não seja maior que data final da ativida
 
 *Sistema de alteração de projetos e atividades com as mesmas validações.
 
-*Visualização de datas no padrão (d/m/Y)/
+*Visualização de datas no padrão (d/m/Y).
 
 *Andamento com % usando round() para facilitar a visualização;
