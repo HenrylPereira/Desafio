@@ -12,23 +12,16 @@ Autor: Henry Lopes Pereira
 
 
 *Sistema de inserção de projetos com várias validações sendo:
-
 -Preenchimento de todos os campos.
-
 -Datas válidas (anos maiores que 2000 e menores que 2050).
-
 -Validação para que a data de início não seja maior que data final do projeto.
-
 -Validação para que o projeto não seja cadastrado no passado.
 
 
 
 *Sistema de inserção de atividades com várias validações sendo:
-
 -Preenchimento de todos os campos.
-
 -Datas válidas (anos maiores que 2000 e menores que 2050).
-
 -Validação para que a data de início não seja maior que data final da atividade.
 
 
